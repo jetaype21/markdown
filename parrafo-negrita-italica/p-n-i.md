@@ -1,19 +1,25 @@
-<!-- # PÁRRAFOS
+# PÁRRAFOS
+:::
 
-Este es el primer párrafo.
+    Este es el primer párrafo.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, temporibus esse ex repudiandae doloribus amet suscipit beatae aspernatur veritatis ad sequi deserunt error maiores dolor est debitis aut quisquam. Voluptas.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, temporibus esse ex repudiandae doloribus amet suscipit beatae aspernatur veritatis ad sequi deserunt error maiores dolor est debitis aut quisquam. Voluptas.
 
-El tercer párrafo. -->
+    El tercer párrafo.
 
-<!-- # negritas
-  **este es un texto en negrita** -->
+# negritas
+:::
+    
+    **este es un texto en negrita**
 
-<!-- # italicas
-  _Este es un texto en cursiva o italica_ -->
+# italicas
+:::
+
+    _Este es un texto en cursiva o italica_
 
 # adicional
+:::
+    
+    ~~tachado~~
 
-~~tachado~~
-
-**_~~cursiva, negrita y tachado~~_**
+    **_~~cursiva, negrita y tachado~~_**
